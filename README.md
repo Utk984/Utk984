@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Utkarsh</h1>
 <h3 align="center">A passionate software developer and student from India</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **ML, IoT and SQLite**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Utk984?tab=repositories](https://github.com/Utk984?tab=repositories)
 
-- 💬 Ask me about **data structures**
+- 💬 Ask me about **coding, space or football**
 
 - 📫 How to reach me **utkarsh.agarwal@plaksha.edu.in**
 
-- ⚡ Fun fact **I love coding**
+- ⚡ Fun fact **I do not like using IDEs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
