@@ -19,11 +19,3 @@
     
   ![snake gif](https://github.com/Utk984/Utk984/blob/output/github-snake-dark.svg)
 </div>
-
-
-
-<!-- Visit Counter -->
-<div align="center">
-  
-  [![](https://visitcount.itsvg.in/api?id=Utk984&icon=10&color=6)](https://visitcount.itsvg.in)
-</div>
