@@ -17,5 +17,5 @@
 <!-- Snake Animation -->
 <div align="center">
     
-  ![snake gif](https://github.com/Utk984/Utk984/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/Utk984/Utk984/blob/output/github-snake-dark.svg) 
 </div>
